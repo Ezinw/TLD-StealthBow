@@ -1,4 +1,4 @@
-# TLD_StealthBow
+# TLD-StealthBow
 
 A mod for The Long Dark to set the skill level required for firing a bow while crouched.
 
